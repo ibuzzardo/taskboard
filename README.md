@@ -1,5 +1,10 @@
 # Taskboard
 
+> Built with [Dark Factory v4](https://github.com/ibuzzardo/dark-factory-v4) — autonomous AI software development pipeline
+
+**[Live Demo](https://taskboard-swart.vercel.app)**
+
+
 A modern Kanban-style task board built with Next.js 15, TypeScript, and Tailwind CSS. Features drag-and-drop functionality and localStorage persistence.
 
 ## Features
