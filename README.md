@@ -77,3 +77,7 @@ src/
     ├── types.ts
     └── storage.ts
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE)
